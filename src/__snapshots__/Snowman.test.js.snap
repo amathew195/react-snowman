@@ -5,10 +5,19 @@ exports[`matches snapshot 1`] = `
   <div
     class="Snowman"
   >
+    <span
+      style="display: none;"
+      value="apple"
+    />
     <img
       alt="0"
       src="0.png"
     />
+    <button
+      value="reset"
+    >
+      Reset
+    </button>
     <p>
       Number wrong: 
       0
